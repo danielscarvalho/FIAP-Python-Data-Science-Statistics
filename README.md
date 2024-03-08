@@ -12,3 +12,4 @@ Aprenda conceitos de estatística e probabilidade a partir de grandes bases de d
 Reference:
 
 - https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
+- https://www.statlearning.com/
