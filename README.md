@@ -13,4 +13,5 @@ Reference:
 
 - https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
 - https://pandas.pydata.org/docs/user_guide/index.html (10 min Pandas, Cookbook)
+- https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 - https://www.statlearning.com/
