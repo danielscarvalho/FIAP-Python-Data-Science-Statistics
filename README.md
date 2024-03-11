@@ -21,3 +21,4 @@ Tips:
 - https://www.w3schools.com/statistics/
 - https://byjus.com/maths/statistics/
 - https://gradcoach.com/descriptive-statistics/
+- https://www.geeksforgeeks.org/statistics-cheatsheet/
