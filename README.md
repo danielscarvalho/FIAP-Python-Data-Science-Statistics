@@ -20,6 +20,7 @@ Reference:
 - https://openstax.org/details/books/introductory-statistics-2e
 - https://probability4datascience.com/
 - https://www.statlearning.com/
+- https://scikit-learn.org/stable/user_guide.html
 - https://penseallen.github.io/PensePython2e/
 - https://pythonfluente.com/
 - https://docs.python-guide.org/
