@@ -11,6 +11,8 @@ Aprenda conceitos de estatística e probabilidade a partir de grandes bases de d
 
 Reference:
 
+- https://greenteapress.com/thinkstats/
+- https://openstax.org/details/books/introductory-statistics-2e
 - https://penseallen.github.io/PensePython2e/
 - https://pythonfluente.com/
 - https://allendowney.github.io/ElementsOfDataScience/
@@ -20,6 +22,7 @@ Reference:
 - https://pandas.pydata.org/docs/user_guide/index.html (10 min Pandas, Cookbook)
 - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 - https://www.statlearning.com/
+- https://www.wolfram.com/language/introduction-machine-learning/
 
 Tips:
 
