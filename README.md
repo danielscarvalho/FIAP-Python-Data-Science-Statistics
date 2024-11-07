@@ -11,6 +11,9 @@ Aprenda conceitos de estatística e probabilidade a partir de grandes bases de d
 
 Reference:
 
+- https://github.com/gedeck/practical-statistics-for-data-scientists
+- https://github.com/joelgrus/data-science-from-scratch
+- https://data-science-for-biz.com/
 - https://greenteapress.com/thinkstats/
 - https://openstax.org/details/books/introductory-statistics-2e
 - https://probability4datascience.com/
