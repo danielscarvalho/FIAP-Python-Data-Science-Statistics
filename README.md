@@ -23,6 +23,11 @@ Reference:
 - https://pandas.pydata.org/docs/user_guide/index.html (10 min Pandas, Cookbook)
 - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
 - https://www.statlearning.com/
+- https://books.goalkicker.com/PythonBook/
+- https://books.goalkicker.com/BashBook/
+- https://books.goalkicker.com/GitBook/
+- https://books.goalkicker.com/LinuxBook/
+- https://www.wolfram.com/language/elementary-introduction/3rd-ed/
 - https://www.wolfram.com/language/introduction-machine-learning/
 
 Tips:
