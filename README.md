@@ -15,17 +15,21 @@ Reference:
 - https://github.com/joelgrus/data-science-from-scratch
 - https://data-science-for-biz.com/
 - https://greenteapress.com/thinkstats/
-- https://openstax.org/details/books/introductory-statistics-2e
-- https://probability4datascience.com/
-- https://penseallen.github.io/PensePython2e/
-- https://pythonfluente.com/
 - https://allendowney.github.io/ElementsOfDataScience/
 - https://jakevdp.github.io/PythonDataScienceHandbook/
+- https://openstax.org/details/books/introductory-statistics-2e
+- https://probability4datascience.com/
+- https://www.statlearning.com/
+- https://penseallen.github.io/PensePython2e/
+- https://pythonfluente.com/
 - https://docs.python-guide.org/
 - https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
 - https://pandas.pydata.org/docs/user_guide/index.html (10 min Pandas, Cookbook)
 - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
-- https://www.statlearning.com/
+- https://numpy.org/doc/stable/user/absolute_beginners.html
+- https://docs.scipy.org/doc/scipy/reference/stats.html
+- https://seaborn.pydata.org/tutorial.html
+- https://matplotlib.org/stable/tutorials/index.html
 - https://books.goalkicker.com/PythonBook/
 - https://books.goalkicker.com/BashBook/
 - https://books.goalkicker.com/GitBook/
