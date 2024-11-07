@@ -13,6 +13,7 @@ Reference:
 
 - https://greenteapress.com/thinkstats/
 - https://openstax.org/details/books/introductory-statistics-2e
+- https://probability4datascience.com/
 - https://penseallen.github.io/PensePython2e/
 - https://pythonfluente.com/
 - https://allendowney.github.io/ElementsOfDataScience/
