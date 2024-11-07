@@ -11,6 +11,11 @@ Aprenda conceitos de estatística e probabilidade a partir de grandes bases de d
 
 Reference:
 
+- https://penseallen.github.io/PensePython2e/
+- https://pythonfluente.com/
+- https://allendowney.github.io/ElementsOfDataScience/
+- https://jakevdp.github.io/PythonDataScienceHandbook/
+- https://docs.python-guide.org/
 - https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
 - https://pandas.pydata.org/docs/user_guide/index.html (10 min Pandas, Cookbook)
 - https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
