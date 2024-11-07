@@ -31,6 +31,7 @@ Reference:
 - https://docs.scipy.org/doc/scipy/reference/stats.html
 - https://seaborn.pydata.org/tutorial.html
 - https://matplotlib.org/stable/tutorials/index.html
+- https://pyoflife.com/data-visualisation-in-python-quick-and-easy-pdf/
 - https://books.goalkicker.com/PythonBook/
 - https://books.goalkicker.com/BashBook/
 - https://books.goalkicker.com/GitBook/
