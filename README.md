@@ -9,6 +9,10 @@ DATA SCIENCE & STATISTICAL COMPUTING<br>
 <br>
 Aprenda conceitos de estatística e probabilidade a partir de grandes bases de dados. Neste curso, aprenderemos os fundamentos matemáticos que permeiam a cultura Data Driven que toma conta do mercado nos dias de hoje; e todos os fundamentos do statistical learning, como definição de eventos, espaços amostrais, variáveis aleatórias (discretas e contínuas), testes de hipótese e cenários para tomadas de decisões. Será feito uso extenso de frameworks de Data Science e bibliotecas específicas. 
 
+As aulas são LABs, vamos usar Jupyter notebook com Python e Anaconda. Vamos programar todas as aulas, referências na literatura e tutoriais das LIBs como numpy, matplotlib, seaborn, Scikit-learn, etc...
+
+> Não se faz ciências de dados em planilhas!
+
 Reference:
 
 - https://github.com/gedeck/practical-statistics-for-data-scientists
