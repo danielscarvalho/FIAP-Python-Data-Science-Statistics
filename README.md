@@ -15,15 +15,33 @@ As aulas são LABs, vamos usar Jupyter notebook com Python e Anaconda. Vamos pro
 
 Reference:
 
+Practical Statistics for Data Scientists, O'Reilly, Peter Bruce, Andrew Bruce, and Peter Gedeck, 2020<br>
 - https://github.com/gedeck/practical-statistics-for-data-scientists
+
+Data Science from Scratch, O'Reilly, Joel Grus, 2015<br>
 - https://github.com/joelgrus/data-science-from-scratch
+
+Data Science for Business, O'Reilly, Provost, Fawcett, 2013<br>
 - https://data-science-for-biz.com/
+
+Think Stats, Probability and Statistics for Programmers, O'Reilly, Allen B. Downey, 2014<br>
 - https://greenteapress.com/thinkstats/
+
+Elements of Data Science, Lulu.com, Allen B. Downey, 2023<br>
 - https://allendowney.github.io/ElementsOfDataScience/
+
+Python Data Science Handbook, Jake VanderPlas, 2023<br>
 - https://jakevdp.github.io/PythonDataScienceHandbook/
+
+Introductory Statistics 2e, Barbara Illowsky, De Anza College, Susan Dean, De Anza College, at al, 2023<br>  
 - https://openstax.org/details/books/introductory-statistics-2e
+
+Introduction to Probability for Data Science, Michigan Publishing, Stanley H. Chan, 2021<br>
 - https://probability4datascience.com/
-- https://www.statlearning.com/
+
+An Introduction to Statistical Learning: with Applications in Python, Springer, Gareth James , Daniela Witten, et al. 2023<br>
+https://www.statlearning.com/
+
 - https://scikit-learn.org/stable/user_guide.html
 - https://penseallen.github.io/PensePython2e/
 - https://pythonfluente.com/
