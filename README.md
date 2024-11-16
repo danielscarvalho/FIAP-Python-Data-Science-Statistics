@@ -39,8 +39,11 @@ Introductory Statistics 2e, Barbara Illowsky, De Anza College, Susan Dean, De An
 Introduction to Probability for Data Science, Michigan Publishing, Stanley H. Chan, 2021<br>
 - https://probability4datascience.com/
 
-An Introduction to Statistical Learning: with Applications in Python, Springer, Gareth James , Daniela Witten, et al. 2023<br>
-https://www.statlearning.com/
+An Introduction to Statistical Learning: with Applications in Python, Springer, Gareth James, Daniela Witten, et al. 2023<br>
+- https://www.statlearning.com/
+
+Data Science and Machine Learning: Powerful Essential Tools and Techniques, Amitos, 2024<br>
+- https://theamitos.com/data-science-and-machine-learning/
 
 - https://scikit-learn.org/stable/user_guide.html
 - https://penseallen.github.io/PensePython2e/
